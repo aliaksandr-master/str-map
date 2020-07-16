@@ -56,7 +56,7 @@
     "husky": "0.13.1",
     "jest": "19.0.1",
     "jest-cli": "19.0.1",
-    "lodash": "4.17.4",
+    "lodash": "4.17.19",
     "webpack": "1.14.0"
   },
   "peerDependencies": {
